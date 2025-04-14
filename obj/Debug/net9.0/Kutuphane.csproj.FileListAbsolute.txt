@@ -219,3 +219,4 @@
 /home/bedirhan565/Masaüstü/Kutuphane/obj/Debug/net9.0/Kutuphane.pdb
 /home/bedirhan565/Masaüstü/Kutuphane/obj/Debug/net9.0/Kutuphane.genruntimeconfig.cache
 /home/bedirhan565/Masaüstü/Kutuphane/obj/Debug/net9.0/ref/Kutuphane.dll
+/home/bedirhan565/Masaüstü/Kutuphane/obj/Debug/net9.0/Kutuphane.sourcelink.json

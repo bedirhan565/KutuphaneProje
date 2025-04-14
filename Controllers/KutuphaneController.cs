@@ -29,7 +29,10 @@ namespace Kutuphane.Controllers
             {
                 return NotFound();
             }
-            returSinif/Create
+            return View(Sinif);
+        }
+
+        // GET: Sinif/Create
         public IActionResult Create()
         {
             return View();
