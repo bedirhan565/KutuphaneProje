@@ -82,7 +82,7 @@ namespace Kutuphane.Controllers
             return View(ogrenci); // Silmeden önce kullanıcıya doğrulama için nesneyi gösterir
         }
 
-        [HttpPost, ActionName("Sil")]
+        [HttpPost, ActionName("SilOnayla")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> SilOnayla(int id)
         {
